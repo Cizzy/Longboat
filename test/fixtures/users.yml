@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+valid:
+  handle: MyString
+  password: MyString
+  login_count: null
+
+invalid:
+  handle: MyString2
+  password: MyString2
+  login_count: 3
